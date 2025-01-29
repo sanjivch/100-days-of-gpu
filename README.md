@@ -6,3 +6,4 @@ Inspired from Umar Jamil
 |:---:|:---:|:---:|
 |27-Jan-2025|001| Vector Addition|
 |28-Jan-2025|002| Matrix Addition|
+|2-9Jan-2025|003| Vector Matrix Multiplication|
